@@ -12,23 +12,10 @@ Use any of the following services.
 
 **WARNING**: Please be aware that these services provide temporary environments: anything you do will be deleted after a while, so make sure you download any data you care about.
 
-* **Recommended**: open this repository in [Colaboratory](https://colab.research.google.com/github/ageron/tf2_course/blob/master/):
-<a href="https://colab.research.google.com/github/ageron/tf2_course/blob/master/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
+* **Recommended**: open this repository in [Binder](https://mybinder.org/v2/gh/DavidChoi76/DeepLearning_Examples/master):
+<a href="https://mybinder.org/v2/gh/DavidChoi76/DeepLearning_Examples/master"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a>
 
-* Or open it in [Binder](https://mybinder.org/v2/gh/ageron/tf2_course/master):
-<a href="https://mybinder.org/v2/gh/ageron/tf2_course/master"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a>
-
-  * _Note_: Most of the time, Binder starts up quickly and works great, but when tf2\_course is updated, Binder creates a new environment from scratch, and this can take quite some time.
-
-* Or open it in [Deepnote](https://beta.deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/tf2_course/blob/master/01_neural_nets_with_keras.ipynb):
-<a href="https://beta.deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/tf2_course/blob/master/01_neural_nets_with_keras.ipynb"><img src="https://www.deepnote.com/static/illustration.png" width="150" /></a>
-
-### Just want to quickly look at some notebooks, without executing any code?
-
-Browse this repository using [jupyter.org's notebook viewer](https://nbviewer.jupyter.org/github/ageron/tf2_course/blob/master/01_neural_nets_with_keras.ipynb):
-<a href="https://nbviewer.jupyter.org/github/ageron/tf2_course/blob/master/01_neural_nets_with_keras.ipynb"><img src="https://jupyter.org/assets/nav_logo.svg" width="150" /></a>
-
-_Note_: [github.com's notebook viewer](01_neural_nets_with_keras.ipynb) also works but it is slower and the math equations are not always displayed correctly.
+  * _Note_: Most of the time, Binder starts up quickly and works great, but when DavidChoi76/DeepLearning_Examples is updated, Binder creates a new environment from scratch, and this can take quite some time.
 
 ### Want to install this project on your own machine?
 
