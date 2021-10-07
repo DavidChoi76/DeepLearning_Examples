@@ -3,7 +3,7 @@ Deep Learning with TensorFlow 2 and Keras – Notebooks
 
 This project accompanies my **Deep Learning with TensorFlow 2 and Keras** trainings. It contains the exercises and their solutions, in the form of [Jupyter](http://jupyter.org/) notebooks.
 
-If you are looking for the code accompanying my O'Reilly book, [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), visit this GitHub project: [ageron/handson-ml2](https://github.com/ageron/handson-ml2).
+If you are looking for the code accompanying my Jupyter notebook, [Keras Lectures](https://tykimos.github.io/2017/03/08/CNN_Getting_Started/)
 
 ## Quick Start
 
