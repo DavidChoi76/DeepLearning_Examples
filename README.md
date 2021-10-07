@@ -1,7 +1,7 @@
 Deep Learning with TensorFlow 2 and Keras – Notebooks
 ==============================================
 
-This project accompanies my **Deep Learning with TensorFlow 2 and Keras** trainings. It contains the exercises and their solutions, in the form of [Jupyter](http://jupyter.org/) notebooks.
+This GitHub accompanies my **Deep Learning with TensorFlow 2 and Keras** trainings. It contains the exercises and their solutions, in the form of [Jupyter](http://jupyter.org/) notebooks.
 
 If you are looking for the code accompanying my Jupyter notebook, [Keras Lectures](https://tykimos.github.io/2017/03/08/CNN_Getting_Started/)
 
